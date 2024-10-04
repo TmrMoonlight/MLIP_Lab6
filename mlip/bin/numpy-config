@@ -1,4 +1,4 @@
-#!/home/yufeiwu2/mlip/bin/python3
+#!/home/yufeiwu2/MLIP_Lab6/mlip/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

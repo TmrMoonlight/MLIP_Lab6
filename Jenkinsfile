@@ -23,8 +23,6 @@ pipeline {
                 # sudo /PATH/TO/CONDA run -n <Envinronment Name> <Command you want to run>
                 pytest
 
-                # echo 'pytest not runned'
-                # exit 1 #comment this line after implementing Jenkinsfile
                 deactivate
                 '''
                 

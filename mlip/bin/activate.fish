@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/yufeiwu2/mlip"
+set -gx VIRTUAL_ENV "/home/yufeiwu2/MLIP_Lab6/mlip"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
